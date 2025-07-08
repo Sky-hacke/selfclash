@@ -2,5 +2,6 @@
 
 # MyList
 # PT
-DOMAIN-SUFFIX,pttime.org
+#DOMAIN-SUFFIX,pttime.org
+IP-CIDR,104.21.32.1/32,no-resolve
 #DOMAIN-SUFFIX,hdfans.org
