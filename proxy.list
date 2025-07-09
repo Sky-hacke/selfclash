@@ -4,3 +4,6 @@
 # PT
 DOMAIN-SUFFIX,pttime.org
 #DOMAIN-SUFFIX,hdfans.org
+
+#IP
+IP-CIDR,23.106.154.125/32
