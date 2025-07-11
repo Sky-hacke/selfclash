@@ -5,5 +5,8 @@
 DOMAIN-SUFFIX,pttime.org
 #DOMAIN-SUFFIX,hdfans.org
 
+#EMBY
+DOMAIN-SUFFIX,hongxingyunmovie.vip
+
 #IP
 #IP-CIDR,23.106.154.125/32
