@@ -5,6 +5,9 @@
 DOMAIN-SUFFIX,pttime.org
 #DOMAIN-SUFFIX,hdfans.org
 
+#NAS
+DOMAIN-SUFFIX,cdn.imnks.com
+
 #EMBY
 DOMAIN-SUFFIX,hongxingyunmovie.vip
 
