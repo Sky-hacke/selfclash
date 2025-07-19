@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,m-team.cc
 #自用
 DOMAIN-SUFFIX,amiao.co
 DOMAIN-SUFFIX,bilibili.com
-IP-CIDR,10.10.0.0/16,no-resolve
+IP-CIDR,10.10.178.0/24,no-resolve
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
