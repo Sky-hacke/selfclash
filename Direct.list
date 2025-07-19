@@ -9,7 +9,6 @@ DOMAIN-SUFFIX,carpt.net
 DOMAIN-SUFFIX,m-team.cc
 #自用
 DOMAIN-SUFFIX,amiao.co
-DOMAIN-SUFFIX,bilibili.com
 IP-CIDR,10.0.0.0/8,no-resolve
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
