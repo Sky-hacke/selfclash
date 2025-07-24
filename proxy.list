@@ -4,6 +4,7 @@
 # PT
 DOMAIN-SUFFIX,pttime.org
 #DOMAIN-SUFFIX,hdfans.org
+DOMAIN-SUFFIX,pttime.online
 
 #NAS
 DOMAIN-SUFFIX,cdn.imnks.com
