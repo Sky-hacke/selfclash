@@ -7,6 +7,13 @@ DOMAIN-SUFFIX,hdfans.org
 DOMAIN-SUFFIX,hdkyl.in
 DOMAIN-SUFFIX,carpt.net
 DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,dht.libtorrent.org
+DOMAIN-SUFFIX,dht.transmissionbt.com
+DOMAIN-SUFFIX,router.bittorrent.com
+DOMAIN-SUFFIX,ipv6-tracker.m-team.cc
+DOMAIN-SUFFIX,tracker.carpt.net
+DOMAIN-SUFFIX,tracker.hdkyl.in
+DOMAIN-SUFFIX,tracker.m-team.cc
 DOMAIN-KEYWORD,tracker
 DOMAIN-KEYWORD,announce.php?passkey=
 DOMAIN-KEYWORD,torrent
