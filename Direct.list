@@ -8,6 +8,10 @@ DOMAIN-SUFFIX,hdkyl.in
 DOMAIN-SUFFIX,carpt.net
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-KEYWORD,tracker
+DOMAIN-KEYWORD,announce.php?passkey=
+DOMAIN-KEYWORD,torrent
+DOMAIN-KEYWORD,peer_id=
+DOMAIN-KEYWORD,info_hash
 #自用
 DOMAIN-SUFFIX,amiao.co
 IP-CIDR,10.0.0.0/8,no-resolve
