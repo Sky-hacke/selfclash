@@ -14,11 +14,13 @@ DOMAIN-SUFFIX,ipv6-tracker.m-team.cc
 DOMAIN-SUFFIX,tracker.carpt.net
 DOMAIN-SUFFIX,tracker.hdkyl.in
 DOMAIN-SUFFIX,tracker.m-team.cc
+DOMAIN-SUFFIX,manfuz.co
 DOMAIN-KEYWORD,tracker
 DOMAIN-KEYWORD,announce.php?passkey=
 DOMAIN-KEYWORD,torrent
 DOMAIN-KEYWORD,peer_id=
 DOMAIN-KEYWORD,info_hash
+DOMAIN-KEYWORD,m-team
 #自用
 DOMAIN-SUFFIX,amiao.co
 IP-CIDR,10.0.0.0/8,no-resolve
