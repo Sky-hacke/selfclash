@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,hdfans.org
 DOMAIN-SUFFIX,hdkyl.in
 DOMAIN-SUFFIX,carpt.net
 DOMAIN-SUFFIX,m-team.cc
+DOMAIN-KEYWORD,tracker
 #自用
 DOMAIN-SUFFIX,amiao.co
 IP-CIDR,10.0.0.0/8,no-resolve
