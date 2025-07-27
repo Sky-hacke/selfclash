@@ -24,7 +24,9 @@ DOMAIN-SUFFIX,m-team.io
 #DOMAIN-KEYWORD,m-team
 #自用
 DOMAIN-SUFFIX,amiao.co
+DOMAIN-SUFFIX,bits.skyfan.com.cn
 IP-CIDR,10.0.0.0/8,no-resolve
+IP-CIDR,38.150.4.50/32,no-resolve
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
