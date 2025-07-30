@@ -6,6 +6,9 @@ DOMAIN-SUFFIX,pttime.org
 #DOMAIN-SUFFIX,hdfans.org
 DOMAIN-SUFFIX,pttime.online
 
+#VPN
+DOMAIN-SUFFIX,terminal69.win
+
 #NAS
 DOMAIN-SUFFIX,cdn.imnks.com
 DOMAIN-SUFFIX,movie-pilot.org
