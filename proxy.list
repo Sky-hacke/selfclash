@@ -1,5 +1,8 @@
 # 强制走代理列表列表
 
+#ZGR
+DOMAIN-SUFFIX,behance.net
+
 # MyList
 # PT
 DOMAIN-SUFFIX,pttime.org
