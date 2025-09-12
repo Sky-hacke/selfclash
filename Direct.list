@@ -3,6 +3,9 @@
 #ZGR
 #DOMAIN-SUFFIX,topazlabs.com
 
+#FaceTime
+IP-CIDR,17.252.203.213/32,no-resolve
+
 # MyList
 # PT
 DOMAIN-SUFFIX,hdfans.org
