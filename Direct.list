@@ -7,6 +7,10 @@
 IP-CIDR,17.252.203.213/32,no-resolve
 
 # MyList
+#Self
+DOMAIN-SUFFIX,qnalt.com
+
+
 # PT
 DOMAIN-SUFFIX,hdfans.org
 #DOMAIN-SUFFIX,pttime.org
