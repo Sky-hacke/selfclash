@@ -10,6 +10,8 @@ IP-CIDR,17.252.203.213/32,no-resolve
 #Self
 DOMAIN-SUFFIX,qnalt.com
 
+#Tag
+DOMAIN-SUFFIX,ratchada.terminal69.win
 
 # PT
 DOMAIN-SUFFIX,hdfans.org
