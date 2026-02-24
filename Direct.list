@@ -15,8 +15,9 @@ DOMAIN-SUFFIX,qnalt.com
 
 # PT
 DOMAIN-SUFFIX,hdfans.org
-#DOMAIN-SUFFIX,pttime.org
+DOMAIN-SUFFIX,pttime.org
 DOMAIN-SUFFIX,hdkyl.in
+DOMAIN-SUFFIX,hdkylin.top
 DOMAIN-SUFFIX,hdkylin.com
 DOMAIN-SUFFIX,carpt.net
 DOMAIN-SUFFIX,m-team.cc
