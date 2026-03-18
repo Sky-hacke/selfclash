@@ -9,6 +9,8 @@ IP-CIDR,17.252.203.213/32,no-resolve
 # MyList
 #Self
 DOMAIN-SUFFIX,qnalt.com
+DOMAIN-SUFFIX,skyfan.com.cn
+DOMAIN-SUFFIX,skytechlife.com
 
 #Tag
 #DOMAIN-SUFFIX,ratchada.terminal69.win
