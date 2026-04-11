@@ -19,7 +19,7 @@ DOMAIN-SUFFIX,skytechlife.com
 DOMAIN-SUFFIX,ipv4zhilian.com
 
 #linux.do
-DOMAIN-SUFFIX,linux.do
+#DOMAIN-SUFFIX,linux.do
 
 # PT
 DOMAIN-SUFFIX,hdfans.org
