@@ -2,6 +2,7 @@
 
 #ZGR
 #DOMAIN-SUFFIX,topazlabs.com
+DOMAIN-SUFFIX,api.cloudflare.com
 
 #FaceTime
 IP-CIDR,17.252.203.213/32,no-resolve
