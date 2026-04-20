@@ -4,8 +4,8 @@
 DOMAIN-SUFFIX,behance.net
 
 # MyList
-#AI
-DOMAIN-SUFFIX,td.ee
+#RFC
+DOMAIN-SUFFIX,rfchost.com
 
 # PT
 DOMAIN-SUFFIX,pttime.org
