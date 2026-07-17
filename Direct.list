@@ -19,9 +19,6 @@ AND,((NETWORK,UDP),(DST-PORT,16393-16402))
 #DOMAIN-SUFFIX,topazlabs.com
 DOMAIN-SUFFIX,api.cloudflare.com
 
-#FaceTime
-IP-CIDR,17.252.203.213/32,no-resolve
-
 # MyList
 #Self
 DOMAIN-SUFFIX,qnalt.com
