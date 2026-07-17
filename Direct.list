@@ -4,6 +4,17 @@
 DOMAIN-SUFFIX,mxhichina.com
 DOMAIN-SUFFIX,qiye.aliyun.com
 
+# FaceTime
+# 原有规则，保留
+IP-CIDR,17.252.203.213/32,no-resolve
+# FaceTime STUN / NAT穿透
+AND,((NETWORK,UDP),(DST-PORT,3478-3497))
+# FaceTime音视频媒体
+AND,((NETWORK,UDP),(DST-PORT,16384-16387))
+AND,((NETWORK,UDP),(DST-PORT,16393-16402))
+
+
+
 #ZGR
 #DOMAIN-SUFFIX,topazlabs.com
 DOMAIN-SUFFIX,api.cloudflare.com
